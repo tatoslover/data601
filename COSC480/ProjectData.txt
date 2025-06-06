@@ -1,0 +1,14 @@
+NBA Sample Data For COSC480 Project
+Sourced from https://www.nba.com/stats/teams/traditional/?sort=FG3M&dir=-1
+
+Team Win% (total) Win% (regular) Win% (playoff) 3 % (total) 3 % (regular) 3 % (playoff) Points (total) Points (regular) Points (playoff)  3 Attempts (total) 3 Attempts (regular) 3 Attempts (playoff) Wins (total) Wins (regular) Wins (playoff) Losses (total) Losses (regular) Losses (playoff) 3 Makes (total) 3 Makes (regular) 3 Makes (playoffs)
+
+Dallas Mavericks (2020)	 57 58 43 37 36 39 109.2 112.4 106 36.55 38.1 35 45 42 3 34 30 4 13.7 13.8 13.6 
+Dallas Mavericks (2010) 71 70 76 38 37 40 99.2 100.2 98.2 21.9 21.6 22.2 73 57 16 30 25 5 8.35 7.9 8.8 
+Dallas Mavericks (2000) 62 65 40 37 38 35 96.35 100.5 92.2 16.85 16.5 17.2 57 53 4 35 29 6 6.2 6.3 6.1 
+LosAngeles Lakers (2020) 56 58 33 33 36 30 103.5 109.5 97.5 32 31.2 32.8 44 42 2 34 30 4 10.45 11.1 9.8 
+LosAngeles Lakers (2010) 66 70 40 32 35 29 97.35 101.5 93.2 17.35 18.1 16.6 61 57 4 31 25 6 5.6 6.4 4.8 
+LosAngeles Lakers (2000) 72 68 94 37 35 38 102 100.6 103.4 15.7 15.5 15.9 71 56 15 27 26 1 5.75 5.4 6.1 
+NewYork Knicks (2020) 55 57 20 37 39 34 102 107 97 30.2 30 30.4 42 41 1 35 31 4 11.1 11.8 10.4 
+NewYork Knicks (2010) 49 51 0 36 37 35 98.65 106.5 90.8 24.6 25.4 23.8 42 42 0 44 40 4 8.8 9.3 8.3 
+NewYork Knicks (2000) 57 59 40 35 35 34 88.85 88.7 89 12.7 13.6 11.8 50 48 2 37 34 3 4.4 4.8 4 
