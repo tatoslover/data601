@@ -1,8 +1,10 @@
-# Course Description | Whakamahuki
+# Data Collection and Sampling
+
+## Course Description | Whakamahuki
 
 STAT455 is a course in survey methods, concentrating mainly on sample designs. The course is designed to give students an understanding of how to select samples from various types of populations of varying characteristics and produce population estimates along with measures of uncertainties in those estimates. Also you will gain some insights in the practical applications of the design of survey collections.
 
-# Learning Outcomes | Hua Akoranga
+## Learning Outcomes | Hua Akoranga
 
 The Courses will:
 
@@ -17,7 +19,7 @@ You will be able to:
 - Use R competently.
 - Write a scientific and technical report.
 
-# Syllabus/Topics
+## Syllabus/Topics
 
 - Introduction to data collection and sampling techniques.
 - Survey Design.

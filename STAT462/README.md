@@ -1,4 +1,6 @@
-# Course Description | Whakamahuki
+# Data Mining
+
+## Course Description | Whakamahuki
 
 STAT462 is a course in statistical learning and data mining, suited to anyone with an
 interest in analysing data. The course will introduce a variety of statistical learning and data mining
@@ -7,7 +9,7 @@ regression, clustering and association purposes will be introduced, including de
 forests, the Apriori algorithm and support vector machines. The lectures will be supplemented with
 laboratory sessions using the statistical software package R.
 
-# Learning Outcomes | Hua Akoranga
+## Learning Outcomes | Hua Akoranga
 
 The course will:
 
@@ -21,7 +23,7 @@ You will be able to:
 - Be able to interpret statistical results and draw meaningful conclusions from data; and
 - Use R to solve a variety of statistical learning and data mining problems.
 
-# Syllabus/Topics
+## Syllabus/Topics
 
 - Regression: nearest neighbour, linear regression, regression trees, random forest and
 boosted regression trees.

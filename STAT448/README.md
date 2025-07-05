@@ -1,11 +1,13 @@
-# Course Description | Whakamahuki
+# Big Data
+
+## Course Description | Whakamahuki
 
 STAT448 is suited to anyone with an interest in data, and how it can be used in decision
 making. In this course we introduce you to big data and some of the techniques you can use
 to access, explore and investigate it. Students enrolling in this course should be familiar with
 statistics and with programming.
 
-# Learning Outcomes | Hua Akoranga
+## Learning Outcomes | Hua Akoranga
 
 The course will:
 
@@ -22,7 +24,7 @@ software
 - Understand basic methods of analysis of Big Data, including methods from machine
 learning for high dimensional data
 
-# Syllabus/Topics
+## Syllabus/Topics
 
 - Linear Regression
 - Ridge Regression
